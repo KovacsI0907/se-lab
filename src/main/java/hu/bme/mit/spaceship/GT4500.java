@@ -86,6 +86,7 @@ public class GT4500 implements SpaceShip {
           firingSuccess = firingSuccess || secondaryTorpedoStore.fire(1);
         }
         break;
+        //RANDOM SZOVEG
     }
 
     return firingSuccess;
